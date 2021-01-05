@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>business</module>
+  	<module>data</module>
   </modules>
+  
 </project>
